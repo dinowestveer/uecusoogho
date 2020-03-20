@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iekaethef.hackcessibility.io/sitemap.xml
